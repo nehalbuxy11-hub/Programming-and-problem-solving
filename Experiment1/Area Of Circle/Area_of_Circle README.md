@@ -20,4 +20,6 @@ Use π = 3.14 and display the area.
 ---
 
 ## Execution
-![Area of Circle Output](code 1.1.png)
+<p align="center">
+  <img src="Area_Of_Triangle Execution.png" width="900">
+</p>
