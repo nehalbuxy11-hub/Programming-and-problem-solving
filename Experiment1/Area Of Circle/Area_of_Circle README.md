@@ -20,4 +20,4 @@ Use π = 3.14 and display the area.
 ---
 
 ## Execution
-![Area of Circle Output](image.png)
+![Area of Circle Output](code 1.1.png)
