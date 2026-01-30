@@ -15,7 +15,7 @@ Use π = 3.14 and display the area.
 ---
 
 ## Flowchart
-![Area of Circle Output](.png)
+![Area of Circle Output](Area_of_Circle.drawio.png)
 
 ---
 
