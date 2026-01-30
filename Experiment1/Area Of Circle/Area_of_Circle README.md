@@ -20,5 +20,5 @@ Use π = 3.14 and display the area.
 
 ## Execution
 <p align="center">
-  <img src="Area_Of_Triangle Execution.png" width="900">
+  <img src="code 1.1.png" width="900">
 </p>
