@@ -15,7 +15,7 @@ Use π = 3.14 and display the area.
 ---
 
 ## Flowchart
-![Flowchart](Area_Of_Triangle.drawio.png)
+![Flowchart](Area_of_Circle.drawio.png)
 ---
 
 ## Execution
