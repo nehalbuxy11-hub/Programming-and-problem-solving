@@ -1,0 +1,9 @@
+def generate_fibonacci_sequence(max_value):
+    fib_series = []
+    a, b = 0, 1
+
+    while a <= max_value:
+        fib_series.append(a)
+        a, b = b, a + b
+
+    return fib_series
